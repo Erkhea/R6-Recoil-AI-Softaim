@@ -1,0 +1,1330 @@
+{
+  "guns": {
+    "M4": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.08399999999999999,
+      "vertical_sens_1x": 0.72,
+      "vertical_sens_2_5x": 1.7999999999999998,
+      "horizontal_sens_2_5x": -0.20999999999999996
+    },
+    "M249": {
+      "horizontal_sens": -0.013999999999999993,
+      "vertical_sens": 0.18199999999999997,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.052000000000000005,
+      "horizontal_sens_2_5x": -0.13,
+      "vertical_sens_1x": 0.48,
+      "vertical_sens_2_5x": 1.2
+    },
+    "SR-25": {
+      "horizontal_sens": -0.013999999999999993,
+      "vertical_sens": 0.18199999999999997,
+      "zoom": "1.0X"
+    },
+    "5.7 USG": {
+      "horizontal_sens": -0.013999999999999993,
+      "vertical_sens": 0.18199999999999997
+    },
+    "ITA12S": {
+      "horizontal_sens": -0.013999999999999993,
+      "vertical_sens": 0.18199999999999997
+    },
+    "L85A2": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.508,
+      "vertical_sens_2_5x": 1.27,
+      "horizontal_sens_1x": 0.10800000000000001,
+      "horizontal_sens_2_5x": 0.27
+    },
+    "M590A1": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "P226 Mk 25": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "SMG-11": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.08,
+      "horizontal_sens_2_5x": 0.2,
+      "vertical_sens_1x": 1.3,
+      "vertical_sens_2_5x": 3.25
+    },
+    "AR33": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.5599999999999999,
+      "vertical_sens_2_5x": 1.4,
+      "horizontal_sens_1x": -0.048,
+      "horizontal_sens_2_5x": -0.12
+    },
+    "R4-C": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 0.1834,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.08,
+      "horizontal_sens_2_5x": -0.2,
+      "vertical_sens_1x": 0.9199999999999999,
+      "vertical_sens_2_5x": 2.3
+    },
+    "G36C": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": 0.1,
+      "horizontal_sens_2_5x": 0.25,
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75
+    },
+    "M45 MEUSOC": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "556XI": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.488,
+      "vertical_sens_2_5x": 1.22,
+      "horizontal_sens_1x": 0.10400000000000001,
+      "horizontal_sens_2_5x": 0.26
+    },
+    "M1014": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "F2": {
+      "horizontal_sens": -0.06999999999999999,
+      "vertical_sens": 0.9187500000000001,
+      "zoom": "1.0X",
+      "horizontal_sens_2_5x": -0.18,
+      "vertical_sens_2_5x": 2.6,
+      "vertical_sens_1x": 1.04,
+      "horizontal_sens_1x": -0.072
+    },
+    "417": {
+      "horizontal_sens": -0.14,
+      "vertical_sens": 0.1834,
+      "zoom": "1.0X"
+    },
+    "SG-CQB": {
+      "horizontal_sens": -0.14,
+      "vertical_sens": 0.1834,
+      "zoom": "1.0X"
+    },
+    "P9": {
+      "horizontal_sens": -0.14,
+      "vertical_sens": 0.1834
+    },
+    "LFP586": {
+      "horizontal_sens": -0.14,
+      "vertical_sens": 0.1834
+    },
+    "Extendable Shield": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "OTs-03": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "PMM": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "GSh-18": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "AK-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.1,
+      "horizontal_sens_2_5x": -0.25,
+      "vertical_sens_1x": 0.76,
+      "vertical_sens_2_5x": 1.9
+    },
+    "6P41": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75,
+      "horizontal_sens_1x": -0.08,
+      "horizontal_sens_2_5x": -0.2
+    },
+    "Ballistic Shield": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "P12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "552 Commando": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.6,
+      "vertical_sens_2_5x": 1.5,
+      "horizontal_sens_1x": -0.06,
+      "horizontal_sens_2_5x": -0.15
+    },
+    "AUG A2": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": 0.1,
+      "horizontal_sens_2_5x": 0.25,
+      "vertical_sens_1x": 0.732,
+      "vertical_sens_2_5x": 1.83
+    },
+    "G8A1": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.1,
+      "horizontal_sens_2_5x": -0.25,
+      "vertical_sens_1x": 0.6799999999999999,
+      "vertical_sens_2_5x": 1.6999999999999997
+    },
+    "C8-SFW": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.06,
+      "horizontal_sens_2_5x": -0.15,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "CAMRS": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "Mk1 9mm": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "GONNE-6": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Mk17 CQB": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.7,
+      "horizontal_sens_2_5x": 1.75,
+      "vertical_sens_1x": 4.0,
+      "vertical_sens_2_5x": 10.0
+    },
+    "D-50": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "PARA-308": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.5599999999999999,
+      "vertical_sens_2_5x": 1.4,
+      "horizontal_sens_1x": -0.048,
+      "horizontal_sens_2_5x": -0.12
+    },
+    "PRB92": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Type-89": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.692,
+      "vertical_sens_2_5x": 1.73,
+      "horizontal_sens_1x": -0.13999999999999999,
+      "horizontal_sens_2_5x": -0.35
+    },
+    "SuperNova": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "PMR90A2": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "P229": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Bearing 9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.1,
+      "horizontal_sens_2_5x": -0.25,
+      "vertical_sens_1x": 1.3,
+      "vertical_sens_2_5x": 3.25
+    },
+    "C7E": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.8400000000000001,
+      "vertical_sens_2_5x": 2.1,
+      "horizontal_sens_1x": -0.06,
+      "horizontal_sens_2_5x": -0.15
+    },
+    "PDW9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.04,
+      "horizontal_sens_2_5x": -0.1,
+      "vertical_sens_1x": 0.6799999999999999,
+      "vertical_sens_2_5x": 1.6999999999999997
+    },
+    "ITA12L": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "USP40": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "T-95 LSW": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.6,
+      "vertical_sens_2_5x": 1.5
+    },
+    "SIX12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "Q-929": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Reaper MK2": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.2,
+      "horizontal_sens_2_5x": -0.5,
+      "vertical_sens_1x": 1.05,
+      "vertical_sens_2_5x": 2.625
+    },
+    "M762": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": 0.0668,
+      "horizontal_sens_2_5x": 0.16699999999999998,
+      "vertical_sens_1x": 0.72,
+      "vertical_sens_2_5x": 1.7999999999999998
+    },
+    "LMG-E": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.08,
+      "horizontal_sens_2_5x": -0.2,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "RG15": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Mk 14 EBR": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "BOSG.12.2": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "C75 Auto": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 1.1,
+      "vertical_sens_2_5x": 2.75
+    },
+    "SMG-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.2,
+      "horizontal_sens_2_5x": 0.5,
+      "vertical_sens_1x": 1.6,
+      "vertical_sens_2_5x": 4.0
+    },
+    "V308": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.5599999999999999,
+      "vertical_sens_2_5x": 1.4,
+      "horizontal_sens_1x": -0.004,
+      "horizontal_sens_2_5x": -0.01
+    },
+    "Spear .308": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "vertical_sens_1x": 0.6599999999999999,
+      "vertical_sens_2_5x": 1.65,
+      "horizontal_sens_1x": -0.052000000000000005,
+      "horizontal_sens_2_5x": -0.13
+    },
+    "SASG-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "AR-15.50": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "1911 TACOPS": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "AK-74M": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.4833333333333333,
+      "vertical_sens_2_5x": 1.0,
+      "horizontal_sens_1x": -0.024166666666666666,
+      "horizontal_sens_2_5x": -0.05
+    },
+    "ARX200": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.088,
+      "horizontal_sens_2_5x": -0.21999999999999997,
+      "vertical_sens_1x": 0.5599999999999999,
+      "vertical_sens_2_5x": 1.4
+    },
+    ".44 MAG SEMI-AUTO": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "F90": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": -0.068,
+      "horizontal_sens_2_5x": -0.17,
+      "vertical_sens_1x": 0.6679999999999999,
+      "vertical_sens_2_5x": 1.67
+    },
+    "M249 SAW": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "horizontal_sens_1x": 0.12,
+      "horizontal_sens_2_5x": 0.3,
+      "vertical_sens_1x": 0.58,
+      "vertical_sens_2_5x": 1.45
+    },
+    "Super Shorty": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "SDP 9mm": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "FMG-9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.06,
+      "horizontal_sens_2_5x": 0.15,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "SIX12 SD": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X"
+    },
+    "CSRX 300": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "SPSMG9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.07,
+      "horizontal_sens_2_5x": -0.17500000000000002,
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75
+    },
+    "SC3000K": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0,
+      "horizontal_sens_1x": -0.06,
+      "horizontal_sens_2_5x": -0.15
+    },
+    "MP7": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "vertical_sens_1x": 0.8400000000000001,
+      "vertical_sens_2_5x": 2.1,
+      "horizontal_sens_1x": 0.02,
+      "horizontal_sens_2_5x": 0.05
+    },
+    "POF-9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.64,
+      "vertical_sens_2_5x": 1.6,
+      "horizontal_sens_1x": 0.02,
+      "horizontal_sens_2_5x": 0.05
+    },
+    "Bailiff 410": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    ".44 Vendetta": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "TACIT .45": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Commando 9": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.05,
+      "horizontal_sens_2_5x": -0.125,
+      "vertical_sens_1x": 0.65,
+      "vertical_sens_2_5x": 1.625
+    },
+    "M870": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "TCSG12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X"
+    },
+    "MP5K": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.04,
+      "horizontal_sens_2_5x": -0.1,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "UMP45": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.07,
+      "horizontal_sens_2_5x": -0.17500000000000002,
+      "vertical_sens_1x": 0.4,
+      "vertical_sens_2_5x": 1.0
+    },
+    "MP5": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.1,
+      "horizontal_sens_2_5x": -0.25,
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75
+    },
+    "P90": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.02,
+      "horizontal_sens_2_5x": -0.05,
+      "vertical_sens_1x": 0.85,
+      "vertical_sens_2_5x": 2.125
+    },
+    "9x19VSN": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.1,
+      "horizontal_sens_2_5x": -0.25,
+      "vertical_sens_1x": 0.72,
+      "vertical_sens_2_5x": 1.7999999999999998
+    },
+    "DP27": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.09,
+      "horizontal_sens_2_5x": 0.22499999999999998,
+      "vertical_sens_1x": 0.45,
+      "vertical_sens_2_5x": 1.125
+    },
+    "416-C Carbine": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.13,
+      "horizontal_sens_2_5x": -0.325,
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75
+    },
+    "9mm C1": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.02,
+      "horizontal_sens_2_5x": 0.05,
+      "vertical_sens_1x": 0.4,
+      "vertical_sens_2_5x": 1.0
+    },
+    "Super 90": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "MPX": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.65,
+      "vertical_sens_2_5x": 1.625
+    },
+    "SPAS-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "M12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.05,
+      "horizontal_sens_2_5x": -0.125,
+      "vertical_sens_1x": 0.45,
+      "vertical_sens_2_5x": 1.125
+    },
+    "SPAS-15": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "Luison": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "MP5SD": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.13,
+      "horizontal_sens_2_5x": -0.325,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "Vector .45 ACP": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.95,
+      "vertical_sens_2_5x": 2.375
+    },
+    "T-5 SMG": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.78,
+      "vertical_sens_2_5x": 1.9500000000000002
+    },
+    "Scorpion EVO 3": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.25,
+      "horizontal_sens_2_5x": 0.625,
+      "vertical_sens_1x": 1.1,
+      "vertical_sens_2_5x": 2.75
+    },
+    "FO-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "K1A": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "vertical_sens_1x": 0.75,
+      "vertical_sens_2_5x": 1.875,
+      "horizontal_sens_1x": -0.15,
+      "horizontal_sens_2_5x": -0.375
+    },
+    "ALDA 5.56": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.02,
+      "horizontal_sens_2_5x": -0.05,
+      "vertical_sens_1x": 0.9,
+      "vertical_sens_2_5x": 2.25
+    },
+    "ACS12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "MX4 Storm": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.1,
+      "horizontal_sens_2_5x": 0.25,
+      "vertical_sens_1x": 0.8,
+      "vertical_sens_2_5x": 2.0
+    },
+    "Keratos .357": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "CCE Shield": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.0,
+      "vertical_sens_2_5x": 0.0
+    },
+    "P-10C": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    },
+    "AUG A3": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.6,
+      "vertical_sens_2_5x": 1.5
+    },
+    "P10 RONI": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.1,
+      "horizontal_sens_2_5x": 0.25,
+      "vertical_sens_1x": 0.73,
+      "vertical_sens_2_5x": 1.825
+    },
+    "UZK50Gi": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.0,
+      "horizontal_sens_2_5x": 0.0,
+      "vertical_sens_1x": 0.7,
+      "vertical_sens_2_5x": 1.75
+    },
+    "PCX-33": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": -0.07,
+      "horizontal_sens_2_5x": -0.17500000000000002,
+      "vertical_sens_1x": 0.6,
+      "vertical_sens_2_5x": 1.5
+    },
+    "Scorpion EVO 3 A1": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "1.0X",
+      "horizontal_sens_1x": 0.25,
+      "horizontal_sens_2_5x": 0.625,
+      "vertical_sens_1x": 1.1,
+      "vertical_sens_2_5x": 2.75
+    },
+    "XK23": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5,
+      "zoom": "2.5X",
+      "vertical_sens_1x": 0.54,
+      "vertical_sens_2_5x": 1.35,
+      "horizontal_sens_1x": 0.12,
+      "horizontal_sens_2_5x": 0.3
+    },
+    "Glaive-12": {
+      "horizontal_sens": 3.5,
+      "vertical_sens": 3.5
+    }
+  },
+  "operators": {
+    "Solid Snake": {
+      "primary_guns": [
+        "F2"
+      ],
+      "secondary_guns": []
+    },
+    "Rauora": {
+      "primary_guns": [
+        "M249"
+      ],
+      "secondary_guns": [
+        "Reaper MK2"
+      ]
+    },
+    "Striker": {
+      "primary_guns": [
+        "M4",
+        "M249"
+      ],
+      "secondary_guns": []
+    },
+    "Deimos": {
+      "primary_guns": [
+        "AK-74M"
+      ],
+      "secondary_guns": [
+        ".44 Vendetta"
+      ]
+    },
+    "Ram": {
+      "primary_guns": [
+        "R4-C",
+        "LMG-E"
+      ],
+      "secondary_guns": []
+    },
+    "Brava": {
+      "primary_guns": [
+        "PARA-308"
+      ],
+      "secondary_guns": []
+    },
+    "Grim": {
+      "primary_guns": [
+        "552 Commando"
+      ],
+      "secondary_guns": []
+    },
+    "Sens": {
+      "primary_guns": [
+        "POF-9",
+        "XK23"
+      ],
+      "secondary_guns": []
+    },
+    "Osa": {
+      "primary_guns": [
+        "556XI",
+        "PDW9"
+      ],
+      "secondary_guns": []
+    },
+    "Flores": {
+      "primary_guns": [
+        "AR33"
+      ],
+      "secondary_guns": []
+    },
+    "Zero": {
+      "primary_guns": [
+        "SC3000K",
+        "MP7"
+      ],
+      "secondary_guns": []
+    },
+    "Ace": {
+      "primary_guns": [
+        "AK-12"
+      ],
+      "secondary_guns": []
+    },
+    "Iana": {
+      "primary_guns": [
+        "ARX200",
+        "G36C"
+      ],
+      "secondary_guns": []
+    },
+    "Kali": {
+      "primary_guns": [
+        "C75 Auto"
+      ],
+      "secondary_guns": []
+    },
+    "Amaru": {
+      "primary_guns": [
+        "G8A1"
+      ],
+      "secondary_guns": [
+        "SMG-11"
+      ]
+    },
+    "NØKK": {
+      "primary_guns": [
+        "FMG-9"
+      ],
+      "secondary_guns": []
+    },
+    "Gridlock": {
+      "primary_guns": [
+        "F90",
+        "M249 SAW"
+      ],
+      "secondary_guns": []
+    },
+    "Nomad": {
+      "primary_guns": [
+        "AK-74M",
+        "ARX200"
+      ],
+      "secondary_guns": []
+    },
+    "Maverick": {
+      "primary_guns": [
+        "M4"
+      ],
+      "secondary_guns": []
+    },
+    "Lion": {
+      "primary_guns": [
+        "V308"
+      ],
+      "secondary_guns": []
+    },
+    "Finka": {
+      "primary_guns": [
+        "Spear .308",
+        "6P41"
+      ],
+      "secondary_guns": []
+    },
+    "Dokkaebi": {
+      "primary_guns": [
+        "XK23"
+      ],
+      "secondary_guns": [
+        "SMG-12",
+        "C75 Auto"
+      ]
+    },
+    "Zofia": {
+      "primary_guns": [
+        "M762",
+        "LMG-E"
+      ],
+      "secondary_guns": []
+    },
+    "Ying": {
+      "primary_guns": [
+        "T-95 LSW"
+      ],
+      "secondary_guns": [
+        "Reaper MK2"
+      ]
+    },
+    "Jackal": {
+      "primary_guns": [
+        "C7E",
+        "PDW9"
+      ],
+      "secondary_guns": []
+    },
+    "Hibana": {
+      "primary_guns": [
+        "Type-89"
+      ],
+      "secondary_guns": [
+        "Bearing 9"
+      ]
+    },
+    "Capitão": {
+      "primary_guns": [
+        "PARA-308",
+        "M249"
+      ],
+      "secondary_guns": []
+    },
+    "Blackbeard": {
+      "primary_guns": [
+        "Mk17 CQB"
+      ],
+      "secondary_guns": []
+    },
+    "Buck": {
+      "primary_guns": [
+        "C8-SFW"
+      ],
+      "secondary_guns": []
+    },
+    "Sledge": {
+      "primary_guns": [
+        "L85A2"
+      ],
+      "secondary_guns": [
+        "Reaper MK2"
+      ]
+    },
+    "Thatcher": {
+      "primary_guns": [
+        "AR33",
+        "L85A2"
+      ],
+      "secondary_guns": []
+    },
+    "Ash": {
+      "primary_guns": [
+        "R4-C",
+        "G36C"
+      ],
+      "secondary_guns": []
+    },
+    "Thermite": {
+      "primary_guns": [
+        "556XI"
+      ],
+      "secondary_guns": []
+    },
+    "Montagne": {
+      "primary_guns": [],
+      "secondary_guns": []
+    },
+    "Twitch": {
+      "primary_guns": [
+        "F2"
+      ],
+      "secondary_guns": []
+    },
+    "Blitz": {
+      "primary_guns": [],
+      "secondary_guns": []
+    },
+    "IQ": {
+      "primary_guns": [
+        "552 Commando",
+        "AUG A2",
+        "G8A1"
+      ],
+      "secondary_guns": []
+    },
+    "Fuze": {
+      "primary_guns": [
+        "AK-12",
+        "6P41"
+      ],
+      "secondary_guns": []
+    },
+    "Glaz": {
+      "primary_guns": [],
+      "secondary_guns": []
+    },
+    "Noor": {
+      "primary_guns": [
+        "Commando 9",
+        "ALDA 5.56"
+      ],
+      "secondary_guns": []
+    },
+    "Denari": {
+      "primary_guns": [
+        "Scorpion EVO 3 A1",
+        "FMG-9"
+      ],
+      "secondary_guns": []
+    },
+    "Skopós": {
+      "primary_guns": [
+        "PCX-33"
+      ],
+      "secondary_guns": []
+    },
+    "Sentry": {
+      "primary_guns": [
+        "Commando 9"
+      ],
+      "secondary_guns": [
+        "C75 Auto"
+      ]
+    },
+    "Tubarão": {
+      "primary_guns": [
+        "MPX"
+      ],
+      "secondary_guns": []
+    },
+    "Fenrir": {
+      "primary_guns": [
+        "MP7"
+      ],
+      "secondary_guns": []
+    },
+    "Solis": {
+      "primary_guns": [
+        "P90"
+      ],
+      "secondary_guns": [
+        "SMG-11"
+      ]
+    },
+    "Azami": {
+      "primary_guns": [
+        "9x19VSN"
+      ],
+      "secondary_guns": []
+    },
+    "Thorn": {
+      "primary_guns": [
+        "UZK50Gi"
+      ],
+      "secondary_guns": [
+        "C75 Auto"
+      ]
+    },
+    "Thunderbird": {
+      "primary_guns": [
+        "Spear .308"
+      ],
+      "secondary_guns": [
+        "Bearing 9"
+      ]
+    },
+    "Aruni": {
+      "primary_guns": [
+        "P10 RONI"
+      ],
+      "secondary_guns": []
+    },
+    "Melusi": {
+      "primary_guns": [
+        "MP5"
+      ],
+      "secondary_guns": []
+    },
+    "Oryx": {
+      "primary_guns": [
+        "T-5 SMG"
+      ],
+      "secondary_guns": []
+    },
+    "Wamai": {
+      "primary_guns": [
+        "AUG A3",
+        "MP5K"
+      ],
+      "secondary_guns": []
+    },
+    "Goyo": {
+      "primary_guns": [
+        "Vector .45 ACP"
+      ],
+      "secondary_guns": [
+        "Bearing 9"
+      ]
+    },
+    "Warden": {
+      "primary_guns": [
+        "MPX"
+      ],
+      "secondary_guns": [
+        "SMG-12"
+      ]
+    },
+    "Mozzie": {
+      "primary_guns": [
+        "Commando 9",
+        "P10 RONI"
+      ],
+      "secondary_guns": []
+    },
+    "Kaid": {
+      "primary_guns": [
+        "AUG A3"
+      ],
+      "secondary_guns": []
+    },
+    "Clash": {
+      "primary_guns": [],
+      "secondary_guns": [
+        "SPSMG9"
+      ]
+    },
+    "Maestro": {
+      "primary_guns": [
+        "ALDA 5.56"
+      ],
+      "secondary_guns": []
+    },
+    "Alibi": {
+      "primary_guns": [
+        "MX4 Storm"
+      ],
+      "secondary_guns": []
+    },
+    "Vigil": {
+      "primary_guns": [
+        "K1A"
+      ],
+      "secondary_guns": [
+        "C75 Auto",
+        "SMG-12"
+      ]
+    },
+    "Ela": {
+      "primary_guns": [
+        "Scorpion EVO 3"
+      ],
+      "secondary_guns": []
+    },
+    "Lesion": {
+      "primary_guns": [
+        "T-5 SMG"
+      ],
+      "secondary_guns": []
+    },
+    "Mira": {
+      "primary_guns": [
+        "Vector .45 ACP"
+      ],
+      "secondary_guns": []
+    },
+    "Echo": {
+      "primary_guns": [
+        "MP5SD"
+      ],
+      "secondary_guns": [
+        "Bearing 9"
+      ]
+    },
+    "Caveira": {
+      "primary_guns": [
+        "M12"
+      ],
+      "secondary_guns": []
+    },
+    "Valkyrie": {
+      "primary_guns": [
+        "MPX"
+      ],
+      "secondary_guns": []
+    },
+    "Frost": {
+      "primary_guns": [
+        "9mm C1"
+      ],
+      "secondary_guns": []
+    },
+    "Mute": {
+      "primary_guns": [
+        "MP5K"
+      ],
+      "secondary_guns": [
+        "SMG-11"
+      ]
+    },
+    "Smoke": {
+      "primary_guns": [
+        "FMG-9"
+      ],
+      "secondary_guns": [
+        "SMG-11"
+      ]
+    },
+    "Castle": {
+      "primary_guns": [
+        "UMP45"
+      ],
+      "secondary_guns": []
+    },
+    "Pulse": {
+      "primary_guns": [
+        "UMP45"
+      ],
+      "secondary_guns": []
+    },
+    "Doc": {
+      "primary_guns": [
+        "MP5",
+        "P90"
+      ],
+      "secondary_guns": []
+    },
+    "Rook": {
+      "primary_guns": [
+        "MP5",
+        "P90"
+      ],
+      "secondary_guns": []
+    },
+    "Jäger": {
+      "primary_guns": [
+        "416-C Carbine"
+      ],
+      "secondary_guns": []
+    },
+    "Bandit": {
+      "primary_guns": [
+        "MP7"
+      ],
+      "secondary_guns": []
+    },
+    "Tachanka": {
+      "primary_guns": [
+        "DP27",
+        "9x19VSN"
+      ],
+      "secondary_guns": [
+        "Bearing 9"
+      ]
+    },
+    "Kapkan": {
+      "primary_guns": [
+        "9x19VSN"
+      ],
+      "secondary_guns": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "SENS": 4.0,
+    "1.0X": 48.0,
+    "2.5X": 58.0,
+    "SENS_REFERENCE": 50.0,
+    "MONITOR_INDEX": 1,
+    "TARGET_SPEED": 5.0,
+    "FOV_DEGREES": 9.0
+  }
+}
